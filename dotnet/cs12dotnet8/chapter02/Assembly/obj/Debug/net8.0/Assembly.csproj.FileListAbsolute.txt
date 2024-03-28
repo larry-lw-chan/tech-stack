@@ -1,0 +1,15 @@
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/bin/Debug/net8.0/Assembly
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/bin/Debug/net8.0/Assembly.deps.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/bin/Debug/net8.0/Assembly.runtimeconfig.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/bin/Debug/net8.0/Assembly.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/bin/Debug/net8.0/Assembly.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.AssemblyInfoInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.AssemblyInfo.cs
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.csproj.CoreCompileInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.sourcelink.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/refint/Assembly.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/Assembly.genruntimeconfig.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Assembly/obj/Debug/net8.0/ref/Assembly.dll

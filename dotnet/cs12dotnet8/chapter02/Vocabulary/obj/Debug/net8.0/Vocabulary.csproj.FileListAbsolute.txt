@@ -1,0 +1,15 @@
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.deps.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.runtimeconfig.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.sourcelink.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/refint/Vocabulary.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.genruntimeconfig.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter02/Vocabulary/obj/Debug/net8.0/ref/Vocabulary.dll

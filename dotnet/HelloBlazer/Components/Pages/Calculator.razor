@@ -1,0 +1,24 @@
+@page "/calculator"
+@rendermode InteractiveServer
+
+<div id="calculator">
+    <div id="screen">@calculation</div>
+
+    <button class="num" name="1" @onclick="(e) => ClickNumber(e)">1</button>
+    <button class="num" name="2">2</button>
+    <button class="num" name="3">3</button>
+    <button class="operand" name="+">+</button>
+    <button class="ac" name="+">AC</button>
+</div>
+
+
+
+@code { 
+    private int calculation = 0;
+
+    private void ClickNumber(MouseEventArgs e)
+    {
+        calculation += 1;
+    }
+    
+}

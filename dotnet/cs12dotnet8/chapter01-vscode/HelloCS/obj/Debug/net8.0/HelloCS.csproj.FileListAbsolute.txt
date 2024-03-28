@@ -1,0 +1,15 @@
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.sourcelink.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll

@@ -1,0 +1,15 @@
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.sourcelink.json
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/larrychan/Development/Learning/dotnet/cs12dotnet8/chapter01-vscode/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll

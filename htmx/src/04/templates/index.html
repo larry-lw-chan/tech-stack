@@ -1,0 +1,60 @@
+{% extends 'layout.html' %} {% block content %}
+<!-- Shows HTMX Loading GET request into #main target-->
+<div id="main"></div>
+<button
+  hx-get="/contacts-partial"
+  hx-target="#main"
+  hx-swap="outerHTML"
+  hx-trigger="click, keyup[ctrlKey && key=='L'] from:body"
+>
+  Get The Contacts
+</button>
+
+<br />
+<br />
+<br />
+<br />
+
+<!-- Shows HTMX handling POST request, passing form Param into #main-form target-->
+<div id="main-form"></div>
+<form>
+  <label for="search">Search Contacts:</label>
+  <input id="search" name="q" type="search" placeholder="Search Contacts" />
+  <button hx-post="/contacts" hx-target="#main-form">
+    Search The Contacts
+  </button>
+</form>
+
+<br />
+<br />
+<br />
+<br />
+
+<!-- Shows HTMX handling POST request, including Inputs without form Param into #main-form target-->
+<div id="main2">
+  <label for="search">Search Contacts:</label>
+  <input id="search2" name="q" type="search" placeholder="Search Contacts" />
+  <button hx-post="/contacts" hx-target="#main2" hx-include="#search2">
+    Search The Contacts
+  </button>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<!-- HX Vals generate static query string: ?q=Carson -->
+<button hx-get="/contacts-test" hx-vals='{"q":"Carson"}'>Find Carson</button>
+
+<br />
+<br />
+<br />
+<br />
+
+<!-- HX-PUSH-URL Maintains history -->
+<button hx-get="/contacts-test" hx-vals='{"q":"Carson"}' hx-push-url="true">
+  Find Carson
+</button>
+
+{% endblock %}

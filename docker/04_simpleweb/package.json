@@ -1,0 +1,14 @@
+{
+  "name": "simple-web",
+  "version": "1.0.0",
+  "description": "Learning to integrate docker with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  }
+}
