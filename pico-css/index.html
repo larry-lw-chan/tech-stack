@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pico CSS - Hello World</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <section>
+        <h1>Hello, world!</h1>
+        <div class="grid">
+          <div>1</div>
+          <div>2</div>
+          <div>3</div>
+          <div>4</div>
+          <div>5</div>
+          <div>6</div>
+        </div>
+      </section>
+
+      <section>
+        <details>
+          <summary>Accordion 1</summary>
+          <p>…</p>
+        </details>
+
+        <details open>
+          <summary>Accordion 2</summary>
+          <ul>
+            <li>Accordion Text One</li>
+            <li>Accordion Text Two</li>
+          </ul>
+        </details>
+      </section>
+
+      <section>
+        <form action="#" method="POST" onclick="event.preventDefault();">
+          <fieldset>
+            <input type="text" placeholder="email" />
+            <input type="password" placeholder="password" />
+          </fieldset>
+          <button>Submit</button>
+        </form>
+
+        <form action="#" method="POST" onclick="event.preventDefault();">
+          <fieldset role="group">
+            <input type="text" placeholder="Search..." />
+            <button>Go</button>
+          </fieldset>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
+
+<script>
+  // Using "data-theme" attribute to adjust theme
+  //   let html = document.querySelector("html");
+  //   html.dataset.theme = "dark";
+  //   theme = "dark";
+</script>
